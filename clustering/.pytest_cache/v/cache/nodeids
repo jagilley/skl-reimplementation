@@ -1,0 +1,17 @@
+[
+  "tests/test_a_environment.py::test_a_imports",
+  "tests/test_generate_cluster_data.py::test_generate_cluster_data",
+  "tests/test_models.py::test_kmeans_on_generated",
+  "tests/test_models.py::test_gmm_spec",
+  "tests/test_models.py::test_kmeans_spec",
+  "tests/test_models.py::test_gmm_likelihood",
+  "tests/test_models.py::test_gmm_spherical_on_generated",
+  "tests/test_models.py::test_gmm_diagonal_on_generated",
+  "tests/test_netid.py::test_netid",
+  "tests/jg_test.py::test_kmeans_spec",
+  "tests/jg_test.py::test_kmeans_on_generated",
+  "tests/all_gmm.py::test_gmm_spec",
+  "tests/all_gmm.py::test_gmm_likelihood",
+  "tests/all_gmm.py::test_gmm_spherical_on_generated",
+  "tests/all_gmm.py::test_gmm_diagonal_on_generated"
+]

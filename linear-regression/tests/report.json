@@ -1,0 +1,11 @@
+{
+    "score": 100,
+    "tests_passed": 5,
+    "notes": {
+        "test_mean_squared_error": "PASS",
+        "test_polynomial_regression": "PASS",
+        "test_generate_regression_data": "PASS",
+        "test_perceptron": "PASS",
+        "test_transform_data": "PASS"
+    }
+}

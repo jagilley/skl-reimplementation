@@ -1,0 +1,11 @@
+{
+    "test_a_imports": true,
+    "test_k_nearest_neighbor": true,
+    "test_netid": true,
+    "test_collaborative_filtering": true,
+    "test_euclidean_distances": true,
+    "test_manhattan_distances": true,
+    "test_cosine_distances": true,
+    "test_aggregators": true,
+    "test_load_movielens_data": true
+}

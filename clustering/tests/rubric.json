@@ -1,0 +1,38 @@
+{
+    "test_a_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_generate_cluster_data": {
+        "weight": 0,
+        "depends": []
+    },
+    "test_gmm_spec": {
+        "weight": 0,
+        "depends": []
+    },
+    "test_kmeans_spec": {
+        "weight": 0,
+        "depends": []
+    },
+    "test_gmm_spherical_on_generated": {
+        "weight": 1.5,
+        "depends": ["test_gmm_spec"]
+    },
+    "test_gmm_diagonal_on_generated": {
+        "weight": 1.5,
+        "depends": ["test_gmm_spec"]
+    },
+    "test_kmeans_on_generated": {
+        "weight": 2,
+        "depends": ["test_kmeans_spec"]
+    },
+    "test_gmm_likelihood": {
+        "weight": 1,
+        "depends": []
+    }
+}

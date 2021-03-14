@@ -1,0 +1,10 @@
+{
+    "test_netid": true,
+    "test_experiment_run_mnist_grid": true,
+    "test_experiment_run_polynomial_grid": true,
+    "test_experiment_run_polynomial_random": true,
+    "test_worker": true,
+    "test_worker_poly": false,
+    "test_grid_permutations": true,
+    "test_experiment_run_polynomial_grid_value": true
+}

@@ -1,0 +1,11 @@
+{
+    "test_imports": true,
+    "test_digit_classifier": true,
+    "test_dog_classifier_fc": true,
+    "test_dog_classifier_conv": true,
+    "test_synth_classifier": true,
+    "test_netid": true,
+    "test_train_function": true,
+    "test_test_function": true,
+    "test_run_model": true
+}

@@ -1,0 +1,13 @@
+{
+    "score": 34,
+    "tests_passed": 3,
+    "notes": {
+        "test_generate_cluster_data": "PASS",
+        "test_kmeans_on_generated": "PASS",
+        "test_gmm_spec": "FAIL",
+        "test_kmeans_spec": "PASS",
+        "test_gmm_likelihood": "FAIL",
+        "test_gmm_spherical_on_generated": "FAIL",
+        "test_gmm_diagonal_on_generated": "FAIL"
+    }
+}

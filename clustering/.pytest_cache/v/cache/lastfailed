@@ -1,0 +1,10 @@
+{
+  "tests/all_gmm.py::test_gmm_diagonal_on_generated": true,
+  "tests/all_gmm.py::test_gmm_likelihood": true,
+  "tests/all_gmm.py::test_gmm_spec": true,
+  "tests/all_gmm.py::test_gmm_spherical_on_generated": true,
+  "tests/test_models.py::test_gmm_diagonal_on_generated": true,
+  "tests/test_models.py::test_gmm_likelihood": true,
+  "tests/test_models.py::test_gmm_spec": true,
+  "tests/test_models.py::test_gmm_spherical_on_generated": true
+}

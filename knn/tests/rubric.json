@@ -1,0 +1,38 @@
+{
+    "test_a_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_k_nearest_neighbor": {
+        "weight": 2,
+        "depends": []
+    },
+    "test_load_movielens_data": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_euclidean_distances": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_manhattan_distances": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_cosine_distances": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_aggregators": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_collaborative_filtering": {
+        "weight": 2,
+        "depends": []
+    }
+}

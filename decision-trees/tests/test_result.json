@@ -1,0 +1,23 @@
+{
+    "test_sklearn_import": true,
+    "test_load_data": true,
+    "test_train_test_split": true,
+    "test_f1_measure": true,
+    "test_precision_and_recall": true,
+    "test_confusion_matrix": true,
+    "test_decision_tree_init": false,
+    "test_decision_tree_fit": false,
+    "test_decision_tree_predict": false,
+    "test_information_gain": false,
+    "test_experiment_run": false,
+    "test_prior_probability_init": true,
+    "test_prior_probability_predict": true,
+    "test_prior_probability_fit": true,
+    "test_imports": true,
+    "test_decision_tree": false,
+    "test_experiment_run_decision_tree": true,
+    "test_experiment_run_prior_probability": true,
+    "test_accuracy": true,
+    "test_experiment_run_and_compare": true,
+    "test_netid": true
+}

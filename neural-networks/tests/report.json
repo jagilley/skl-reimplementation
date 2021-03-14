@@ -1,0 +1,13 @@
+{
+    "score": 100,
+    "tests_passed": 7,
+    "notes": {
+        "test_digit_classifier": "PASS",
+        "test_dog_classifier_fc": "PASS",
+        "test_dog_classifier_conv": "PASS",
+        "test_synth_classifier": "PASS",
+        "test_train_function": "PASS",
+        "test_test_function": "PASS",
+        "test_run_model": "PASS"
+    }
+}

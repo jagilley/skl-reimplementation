@@ -1,0 +1,11 @@
+[
+  "tests/test_a_environment.py::test_imports",
+  "tests/test_models.py::test_digit_classifier",
+  "tests/test_models.py::test_dog_classifier_fc",
+  "tests/test_models.py::test_dog_classifier_conv",
+  "tests/test_models.py::test_synth_classifier",
+  "tests/test_netid.py::test_netid",
+  "tests/test_run_model.py::test_train_function",
+  "tests/test_run_model.py::test_test_function",
+  "tests/test_run_model.py::test_run_model"
+]

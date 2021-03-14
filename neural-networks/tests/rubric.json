@@ -1,0 +1,39 @@
+{
+    "test_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_train_function": {
+    	"weight": 20,
+    	"depends": []
+    },
+    "test_test_function": {
+    	"weight": 20,
+    	"depends": []
+    },
+    "test_run_model": {
+    	"weight": 20,
+    	"depends": ["test_train_function", 
+            "test_test_function"]
+    }, 
+    "test_digit_classifier": {
+    	"weight": 10,
+    	"depends": []
+    },
+    "test_dog_classifier_fc": {
+    	"weight": 10,
+    	"depends": []
+    },
+    "test_dog_classifier_conv": {
+    	"weight": 10,
+    	"depends": []
+    },
+    "test_synth_classifier": {
+    	"weight": 10,
+    	"depends": []
+    }
+}

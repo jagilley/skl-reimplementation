@@ -1,0 +1,38 @@
+{
+    "test_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_experiment_run_polynomial_grid": {
+        "weight": 1,
+        "depends": [
+            "test_worker",
+            "test_grid_permutations"
+        ]
+    },
+    "test_experiment_run_polynomial_random": {
+        "weight": 1,
+        "depends": [
+            "test_worker"
+        ]
+    },
+    "test_experiment_run_mnist_grid": {
+        "weight": 1,
+        "depends": [
+            "test_worker",
+            "test_grid_permutations"
+        ]
+    },
+    "test_worker": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_grid_permutations": {
+        "weight":1,
+        "depends": []
+    }
+}

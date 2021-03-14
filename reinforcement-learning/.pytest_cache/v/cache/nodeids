@@ -1,0 +1,9 @@
+[
+  "tests/test_a_environment.py::test_imports",
+  "tests/test_bandit.py::test_bandit_slots",
+  "tests/test_bandit.py::test_bandit_frozen_lake",
+  "tests/test_netid.py::test_netid",
+  "tests/test_q_learning.py::test_q_learning_slots",
+  "tests/test_q_learning.py::test_q_learning_frozen_lake",
+  "tests/test_q_learning.py::test_q_learning_deterministic"
+]

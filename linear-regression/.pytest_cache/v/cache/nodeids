@@ -1,0 +1,9 @@
+[
+  "tests/test_a_environment.py::test_a_imports",
+  "tests/test_generate_regression_data.py::test_generate_regression_data",
+  "tests/test_metrics.py::test_mean_squared_error",
+  "tests/test_netid.py::test_netid",
+  "tests/test_perceptron.py::test_perceptron",
+  "tests/test_perceptron.py::test_transform_data",
+  "tests/test_polynomial_regression.py::test_polynomial_regression"
+]

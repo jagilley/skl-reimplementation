@@ -1,0 +1,17 @@
+[
+  "tests/test_a_environment.py::test_imports",
+  "tests/test_gradient_descent.py::test_gradient_descent_blobs",
+  "tests/test_gradient_descent.py::test_gradient_descent_mnist_binary",
+  "tests/test_loss.py::test_hinge_loss_forward",
+  "tests/test_loss.py::test_hinge_loss_backward",
+  "tests/test_loss.py::test_squared_loss_forward",
+  "tests/test_loss.py::test_squared_loss_backward",
+  "tests/test_multiclass_gradient_descent.py::test_multiclass_gradient_descent_separable",
+  "tests/test_multiclass_gradient_descent.py::test_multiclass_gradient_descent_blobs",
+  "tests/test_multiclass_gradient_descent.py::test_multiclass_gradient_descent_mnist",
+  "tests/test_netid.py::test_netid",
+  "tests/test_regularization.py::test_l1_regularization_forward",
+  "tests/test_regularization.py::test_l1_regularization_backward",
+  "tests/test_regularization.py::test_l2_regularization_forward",
+  "tests/test_regularization.py::test_l2_regularization_backward"
+]

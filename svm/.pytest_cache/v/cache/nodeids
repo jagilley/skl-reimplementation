@@ -1,0 +1,8 @@
+[
+  "tests/test_experiment.py::test_experiment_run_mnist_grid",
+  "tests/test_experiment.py::test_experiment_run_polynomial_grid",
+  "tests/test_experiment.py::test_experiment_run_polynomial_random",
+  "tests/test_netid.py::test_netid",
+  "tests/test_permutations.py::test_grid_permutations",
+  "tests/test_worker.py::test_worker"
+]

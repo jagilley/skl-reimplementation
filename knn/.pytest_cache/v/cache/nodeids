@@ -1,0 +1,11 @@
+[
+  "tests/test_a_environment.py::test_a_imports",
+  "tests/test_collaborative_filtering.py::test_collaborative_filtering",
+  "tests/test_distances.py::test_euclidean_distances",
+  "tests/test_distances.py::test_manhattan_distances",
+  "tests/test_distances.py::test_cosine_distances",
+  "tests/test_knn.py::test_k_nearest_neighbor",
+  "tests/test_knn.py::test_aggregators",
+  "tests/test_movielens_loading.py::test_load_movielens_data",
+  "tests/test_netid.py::test_netid"
+]

@@ -1,0 +1,11 @@
+{
+    "test_a_imports": true,
+    "test_generate_cluster_data": true,
+    "test_kmeans_on_generated": true,
+    "test_gmm_spec": false,
+    "test_kmeans_spec": true,
+    "test_gmm_likelihood": false,
+    "test_gmm_spherical_on_generated": false,
+    "test_gmm_diagonal_on_generated": false,
+    "test_netid": true
+}

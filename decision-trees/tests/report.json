@@ -1,0 +1,15 @@
+{
+    "score": 100,
+    "tests_passed": 9,
+    "notes": {
+        "test_load_data": "PASS",
+        "test_train_test_split": "PASS",
+        "test_f1_measure": "PASS",
+        "test_precision_and_recall": "PASS",
+        "test_confusion_matrix": "PASS",
+        "test_experiment_run_decision_tree": "PASS",
+        "test_experiment_run_prior_probability": "PASS",
+        "test_accuracy": "PASS",
+        "test_experiment_run_and_compare": "PASS"
+    }
+}

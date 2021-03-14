@@ -1,0 +1,13 @@
+[
+  "tests/test_a_environment.py::test_imports",
+  "tests/test_data.py::test_load_data",
+  "tests/test_data.py::test_train_test_split",
+  "tests/test_experiment.py::test_experiment_run_decision_tree",
+  "tests/test_experiment.py::test_experiment_run_prior_probability",
+  "tests/test_experiment.py::test_experiment_run_and_compare",
+  "tests/test_metrics.py::test_accuracy",
+  "tests/test_metrics.py::test_f1_measure",
+  "tests/test_metrics.py::test_precision_and_recall",
+  "tests/test_metrics.py::test_confusion_matrix",
+  "tests/test_netid.py::test_netid"
+]

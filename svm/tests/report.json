@@ -1,0 +1,11 @@
+{
+    "score": 100,
+    "tests_passed": 5,
+    "notes": {
+        "test_experiment_run_mnist_grid": "PASS",
+        "test_experiment_run_polynomial_grid": "PASS",
+        "test_experiment_run_polynomial_random": "PASS",
+        "test_worker": "PASS",
+        "test_grid_permutations": "PASS"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "test_imports": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_load_data": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_train_test_split": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_f1_measure": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_accuracy": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_precision_and_recall": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_confusion_matrix": {
+        "weight": 1,
+        "depends": []
+    },
+    "test_experiment_run_decision_tree": {
+        "weight": 5,
+        "depends": [
+            "test_load_data", 
+            "test_train_test_split", 
+            "test_f1_measure",
+            "test_precision_and_recall",
+            "test_confusion_matrix",
+            "test_accuracy"
+        ]
+    },
+    "test_experiment_run_prior_probability": {
+        "weight": 5,
+        "depends": [
+            "test_load_data", 
+            "test_train_test_split", 
+            "test_f1_measure",
+            "test_precision_and_recall",
+            "test_confusion_matrix",
+            "test_accuracy"
+        ]
+    },
+    "test_experiment_run_and_compare": {
+        "weight": 5,
+        "depends": [
+            "test_load_data", 
+            "test_train_test_split", 
+            "test_f1_measure",
+            "test_precision_and_recall",
+            "test_confusion_matrix",
+            "test_accuracy",
+            "test_experiment_run_prior_probability",
+            "test_experiment_run_decision_tree"
+        ]
+    }
+}
